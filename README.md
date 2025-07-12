@@ -41,7 +41,7 @@ Jeśli potrzebujesz pomocy, bądź chcesz pomóc w rozwoju bota:
 Również stworzyłem bota (**Yukki**), który jest w 100% publiczny oraz darmowy i możliwy do wykorzystania, który nie wymaga bazy danych!
 Poprostu odwiedź to repozytorium: https://github.com/simonjuniorj/Yukki-Bot
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 (***EN***)
 I'm an advanced bot for the Official [Szkoła w Chmurze Server](https://discord.gg/szkolalawchmurze). I was created with ❤️ thanks to _simun and my community.
